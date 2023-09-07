@@ -1,4 +1,4 @@
-## Flash Speeder Pad Imager
+## Flash V400 Pad Imager
 
 **1.Note**: Flashing the imager will reset all configurations and lose all data on your pad, so this operation is only used to restore the original settings of the Speeder Pad
 
