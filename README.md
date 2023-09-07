@@ -12,7 +12,7 @@
 
 **3.Step**：
 
-  a)Download this V1.4 restoration imager：
+  a)Download V1.4 imager：
 
   b)Download and install Raspberry Pi imager here：https://www.raspberrypi.com/software/
 
