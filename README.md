@@ -12,7 +12,7 @@
 
 **3.Step**：
 
-  a)Download V1.4 imager：
+  a)Download V1.4 imager：https://drive.google.com/drive/folders/1_bnQ5KpXq3A9bVu_JVZJq-N5O7M2U3bi?usp=drive_link
 
   b)Download and install Raspberry Pi imager here：https://www.raspberrypi.com/software/
 
